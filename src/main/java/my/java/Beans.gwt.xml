@@ -1,0 +1,4 @@
+<module>
+    <inherits name="my.java.Util"/>
+    <inherits name="my.java.beans.emul.Emulation"/>
+</module>
