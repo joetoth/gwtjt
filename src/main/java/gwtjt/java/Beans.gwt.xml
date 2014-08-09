@@ -1,0 +1,4 @@
+<module>
+    <inherits name="gwtjt.java.Util"/>
+    <inherits name="gwtjt.java.beans.emul.Emulation"/>
+</module>
